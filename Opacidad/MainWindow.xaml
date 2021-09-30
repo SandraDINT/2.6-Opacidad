@@ -12,22 +12,27 @@
     <Grid>
         <Image HorizontalAlignment="Left"
                Height="323"
-               Margin="296,45,0,0"
-               VerticalAlignment="Top"
-               Width="388"
-               Source="Assets/episodioV.jpg" />
-        <Image HorizontalAlignment="Left"
-               Height="323"
                Margin="45,45,0,0"
                VerticalAlignment="Top"
                Width="388"
-               Source="Assets/episodioIV.jpg" />
+               Source="Assets/episodioIV.jpg"
+               Opacity="0.5" />
+        
+        <Image HorizontalAlignment="Left"
+               Height="323"
+               Margin="296,45,0,0"
+               VerticalAlignment="Top"
+               Width="388"
+               Source="Assets/episodioV.jpg" 
+               Opacity="0.5"/>
+        
         <Image HorizontalAlignment="Left"
                Height="323"
                Margin="538,45,-134,0"
                VerticalAlignment="Top"
                Width="388"
-               Source="Assets/episodioVI.jpg" />
+               Source="Assets/episodioVI.jpg"
+               Opacity="0.5" />
 
     </Grid>
 </Window>
